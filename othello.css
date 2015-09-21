@@ -13,11 +13,6 @@
   fill-opacity: 0;
 }
 
-.rule {
-  stroke: black;
-  stroke-width: 2;
-}
-
 .dot {
   fill: black;
 }
